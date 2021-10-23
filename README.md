@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hanilz
+- 👀 I’m interested in Software and Web development and learning as much as possible!
+- I'm at the end of my 2nd year of Sotware Engineering Bsc.
