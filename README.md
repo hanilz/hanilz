@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @hanilz
-- 👀 I’m interested in Software and Web development and learning as much as possible!
-- I'm on my 3rd year of Sotware Engineering Bsc.
+- 👀 I’m interested in Software, Web development and learning as much as possible!
+- I'm on my 4th year of Software Engineering BSc. at Brauda college in Karmiel, Israel
