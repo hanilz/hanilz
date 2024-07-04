@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @hanilz
 - 👀 I’m interested in Software, Web development and learning as much as possible!
-- I'm on my 4th year of Software Engineering BSc. at Brauda college in Karmiel, Israel
+- I'm on my last year of Software Engineering BSc. at Brauda college in Karmiel, Israel
